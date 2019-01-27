@@ -1,2 +1,3 @@
-# jules
-project management app created with ❤️for @jgarreffa112
+# Jules
+
+Project management app created with ❤️
